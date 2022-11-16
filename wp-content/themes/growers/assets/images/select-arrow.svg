@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.18" height="3.57" viewBox="0 0 10.18 3.57">
+  <defs>
+    <style>
+      .a {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>select-arrow</title>
+  <path class="a" d="M5.09,3.57.26.94A.5.5,0,1,1,.74.06L5.09,2.43,9.44.06a.5.5,0,1,1,.48.88Z"/>
+</svg>
