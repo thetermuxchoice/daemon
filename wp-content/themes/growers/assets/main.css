@@ -2224,7 +2224,7 @@ a, a:hover, a:visited {
 }
 
 .home .home-widget-components .right-half .product-img {
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -2258,15 +2258,15 @@ a, a:hover, a:visited {
 }
 
 .home .home-widget-components .right-half .slide-1 .product-img {
-    background-image: url(images/fp-bag-1.png);
+    background-image: url(/products/img/product-1-recort.png);
     width: 133px;
     height: 458px
 }
 
 @media screen and (min-width:460px) and (min-height:600px) {
     .home .home-widget-components .right-half .slide-1 .product-img {
-        width: 172px;
-        height: 594px
+        width: 263px;
+        height: 580px
     }
 }
 
@@ -2296,7 +2296,7 @@ a, a:hover, a:visited {
 }
 
 .home .home-widget-components .right-half .slide-2 .product-img {
-    background-image: url(images/fp-nutrient-bucket.png);
+    background-image: url(/products/img/product-1-recort.png);
     width: 133px;
     height: 458px
 }
